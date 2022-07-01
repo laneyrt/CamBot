@@ -24,3 +24,6 @@ sudo apt-get install python3-opencv
 
 Discord token aswell
 https://discord.com/developers/docs/intro
+
+Jun 30 2022-Bruh why did I type this with no spelling correction.
+Ill fix this when I get back on the project.
