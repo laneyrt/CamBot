@@ -24,4 +24,3 @@ sudo apt-get install python3-opencv
 
 Discord token aswell
 https://discord.com/developers/docs/intro
-
